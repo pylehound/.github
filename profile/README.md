@@ -1,14 +1,10 @@
-![PyleHound Logo](https://www.pylehound.com/img/Logo/pylehound-01.jpg)
-
 #  Instantly Find, Summarize, and Structure Critical Information in Complex Legal Files.  - PyleHound
 
 ##  AI Document Review built for lawyers. 
 
 Cut hours from due diligence, litigation, and investigations by instantly uncovering the critical insights you need, with your sensitive legal data processed and kept securely within the EU. 
 
-[Join Waiting List](https://www.pylehound.com/)
-
-![PyleHound Screenshot](https://www.pylehound.com/img/hero.png)
+[Request Demo](https://www.pylehound.com/)
 
 ## Powerful Features for Smarter Document Review
 
